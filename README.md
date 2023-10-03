@@ -1,4 +1,23 @@
-### Hi there 👋
+<h2> Hi, I'm Javier Nicolas!</h2>
+
+
+```javascript
+const javierNicolas = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Node, Mongo DB],
+  learning: {
+      code: "TypeScript",
+      DB: "MySQL",
+      },
+}
+```
+
+
+
+---
+
+⭐️ From [@javiernicolasadan](https://github.com/javiernicolasadan)
 
 <!--
 **javiernicolasadan/javiernicolasadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
