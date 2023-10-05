@@ -16,8 +16,8 @@ const javierNicolas = {
 
 
 ---
-🖋️  [linkedin](https://www.linkedin.com/in/javier-nicolas-adan-web-developer)                                    
-🖋️ From [@javiernicolasadan](https://github.com/javiernicolasadan)
+:arrow_right:  [Linkedin](https://www.linkedin.com/in/javier-nicolas-adan-web-developer)                                    
+:arrow_right: From [@javiernicolasadan](https://github.com/javiernicolasadan)
 
 <!--
 **javiernicolasadan/javiernicolasadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
