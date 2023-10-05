@@ -10,6 +10,7 @@ const javierNicolas = {
       code: "TypeScript",
       DB: "SQL",
       },
+  also: [father, runner, music lover]
 }
 ```
 
