@@ -16,7 +16,7 @@ const javierNicolas = {
 
 
 ---
-:arrow_right:  [Linkedin](https://www.linkedin.com/in/javier-nicolas-adan-web-developer)                                    
+ [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Javier Nicolas's LinkedIn Profile" height="30" width="30">](https://www.linkedin.com/in/javier-nicolas-adan-web-developer)                                    
 :arrow_right: From [@javiernicolasadan](https://github.com/javiernicolasadan)
 
 <!--
