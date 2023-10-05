@@ -16,9 +16,17 @@ const javierNicolas = {
 
 
 ---
- [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Javier Nicolas's LinkedIn Profile" height="30" width="30">](https://www.linkedin.com/in/javier-nicolas-adan-web-developer)                                    
- [<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Javier Nicolas's gmail" height="30" width="30">](javiernicolasadan@gmail.com)                                    
- <a href="mailto:javiernicolasadan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-javiernicolasadan@gmail.com-blue?style=flat-square&logo=gmail"></a>                                    
+
+<p>
+ <a href="https://www.linkedin.com/in/javier-nicolas-adan-web-developer">
+  <img alt="Javier Nicolas's LinkedIn Profile" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="30" width="30">
+ </a>          
+
+ <a href="mailto:javiernicolasadan@gmail.com">
+  <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30">
+ </a>                
+</p>
+                                  
 :arrow_right: From [@javiernicolasadan](https://github.com/javiernicolasadan)
 
 <!--
