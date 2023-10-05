@@ -1,4 +1,4 @@
-<h2> Hi, I'm Javier Nicolas! 👋</h2>
+<h2> Hi, I'm Javier Nicolas! 👋 👨‍💻</h2>
 
 
 ```javascript
@@ -8,7 +8,7 @@ const javierNicolas = {
   tools: [React, Node, Mongo DB],
   learning: {
       code: "TypeScript",
-      DB: "MySQL",
+      DB: "SQL",
       },
 }
 ```
@@ -16,8 +16,8 @@ const javierNicolas = {
 
 
 ---
-
-⭐️ From [@javiernicolasadan](https://github.com/javiernicolasadan)
+🖋️  [linkedin](https://www.linkedin.com/in/javier-nicolas-adan-web-developer)                                    
+🖋️ From [@javiernicolasadan](https://github.com/javiernicolasadan)
 
 <!--
 **javiernicolasadan/javiernicolasadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
