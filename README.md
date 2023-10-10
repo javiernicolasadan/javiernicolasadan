@@ -7,7 +7,7 @@ const javierNicolas = {
   code: [Javascript, HTML, CSS],
   tools: [React, Node, Mongo DB],
   learning: {
-      code: "BootStrap",
+      tools: "BootStrap",
       DB: "SQL",
       },
   also: [father, runner, music lover]
