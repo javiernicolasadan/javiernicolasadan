@@ -3,7 +3,6 @@
 
 ```javascript
 const javierNicolas = {
-  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Node, Mongo DB],
   learning: {
