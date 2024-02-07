@@ -27,7 +27,8 @@ const javierNicolas = {
  </a>                
 </p>
 
- <img alt="CodeWars" src="https://www.codewars.com/users/javiernicolasadan/badges/micro" height="50" width="130">                                 
+ <img alt="CodeWars" src="https://www.codewars.com/users/javiernicolasadan/badges/micro" height="50" width="130">  
+ 
 :arrow_right: From [@javiernicolasadan](https://github.com/javiernicolasadan)
 
 <!--
