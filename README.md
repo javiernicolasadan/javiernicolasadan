@@ -9,7 +9,7 @@ const javierNicolas = {
       tools: "BootStrap",
       DB: "SQL",
       },
-  also: [father, runner, music lover]
+  also: [salesforce ecosystem]
 }
 ```
 
