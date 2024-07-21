@@ -4,12 +4,11 @@
 ```javascript
 const javierNicolas = {
   code: [Javascript, HTML, CSS],
-  tools: [React, Node, Mongo DB],
+  tools: [React, Node, Mongo DB, BootStrap],
   learning: {
-      tools: "BootStrap",
       DB: "SQL",
       },
-  also: [salesforce ecosystem]
+  also: [salesforce ecosystem, Net Zero Cloud]
 }
 ```
 
