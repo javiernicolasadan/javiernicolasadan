@@ -6,7 +6,8 @@ const javierNicolas = {
   code: [Javascript, HTML, CSS],
   tools: [React, Node, Mongo DB, BootStrap],
   learning: {
-      DB: "SQL",
+      DB: "SQL", "SOQL"
+      SF: "Apex", "LWC"
       },
   also: [salesforce ecosystem, Net Zero Cloud]
 }
