@@ -8,6 +8,7 @@ const javierNicolas = {
   learning: {
       DB: "SQL", "SOQL"
       SF: "Apex", "LWC"
+      Other: "Scraping"
       },
   also: [salesforce ecosystem, Net Zero Cloud]
 }
