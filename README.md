@@ -4,7 +4,7 @@
 ```javascript
 const javierNicolas = {
   code: [Javascript, HTML, CSS],
-  tools: [React, Node, Mongo DB, BootStrap],
+  tools: [React, Node, Mongo DB, BootStrap, Tailwind],
   learning: {
       DB: "SQL", "SOQL"
       SF: "Apex", "LWC"
