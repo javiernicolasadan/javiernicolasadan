@@ -10,7 +10,7 @@ const javierNicolas = {
       SF: "Apex", "LWC"
       Other: "Scraping"
       },
-  also: [salesforce ecosystem, Net Zero Cloud]
+  also: [salesforce ecosystem, IA, Net Zero Cloud]
 }
 ```
 
